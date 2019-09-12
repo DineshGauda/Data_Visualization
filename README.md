@@ -13,6 +13,7 @@ This project is a part of the continuous assessment for Data Visualisation modul
 **Duration:** January, 2019 - April, 2019
 
 **Project Description:** 
+
 **1. Infographic on Coffee** 
 Story styled infographic on coffee.
 
