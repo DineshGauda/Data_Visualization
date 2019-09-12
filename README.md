@@ -15,7 +15,7 @@ This project is a part of the continuous assessment for Data Visualisation modul
 **Project Description:** 
 
 **1. Infographic on Coffee** 
-Story styled infographic on coffee.
+In this project, the main task was to tell a story using data via the medium of an infographic.
 
 **Tools & Languages Used:**
 1. Venngage
@@ -24,7 +24,7 @@ Story styled infographic on coffee.
 4. Paint 3D
 
 **2. Magazine style report on Football** 
-Magazine style styled report on football focusing on English Premier Legaue and a special section on Messi vs Ronaldo
+In this project, a business magazine-style report on football focusing on English Premier Legaue and a special section on Messi vs Ronaldo was created using different data visualization tools. Also, a variety of chart types were used along with the reasons for selecting the appropriate visualizations.
 
 **Tools & Languages Used:**
 1. Tableau
