@@ -34,3 +34,5 @@ Magazine style styled report on football focusing on English Premier Legaue and 
 5. Canva
 6. Microsoft publisher
 7. R
+
+Note: cleaning.r contains code for cleaning dataset used to create the magazine styles report and Football.twb and Football-2.twb contains visualisation created using tableau and powerBI_visualisation powerBI visualisation file. 
